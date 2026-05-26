@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="com.googlecode.cppcheclipse.feature:1.1.1.v20180105-1603"/>
+		<item value="ilg.gnumcueclipse.debug.gdbjtag.openocd.feature:4.4.1.201911052135"/>
+		<item value="ilg.gnumcueclipse.managedbuild.cross.arm.feature:2.7.1.201911052135"/>
+		<item value="ilg.gnumcueclipse.managedbuild.cross.riscv.feature:2.9.1.201911052135"/>
+		<item value="ilg.gnumcueclipse.packs.feature:2.4.1.201911052135"/>
+		<item value="org.eclipse.cdt.gdb:9.11.0.202001092011"/>
+		<item value="org.eclipse.cdt.gnu.build:9.11.0.202001092011"/>
+		<item value="org.eclipse.cdt.gnu.debug:9.11.0.202003021149"/>
+		<item value="org.eclipse.cdt.gnu.dsf:9.11.0.202003021149"/>
+		<item value="org.eclipse.cdt.native:9.11.0.202002181755"/>
+		<item value="org.eclipse.cdt.platform:9.11.0.202003091030"/>
+		<item value="org.eclipse.cdt:9.11.0.202003091030"/>
+		<item value="org.eclipse.egit:5.7.0.202003110725-r"/>
+		<item value="org.eclipse.emf.common:2.18.0.v20191225-1014"/>
+		<item value="org.eclipse.emf.ecore:2.21.0.v20200127-1342"/>
+		<item value="org.eclipse.help:2.3.100.v20200305-0155"/>
+		<item value="org.eclipse.jgit.http.apache:5.7.0.202003110725-r"/>
+		<item value="org.eclipse.jgit.lfs:5.7.0.202003110725-r"/>
+		<item value="org.eclipse.jgit.ssh.apache:5.7.0.202003110725-r"/>
+		<item value="org.eclipse.jgit:5.7.0.202003110725-r"/>
+		<item value="org.eclipse.platform:4.15.0.v20200305-0155"/>
+		<item value="org.eclipse.rcp:4.15.0.v20200305-0155"/>
+		<item value="org.eclipse.tm.terminal.connector.ssh.feature:4.6.0.202001311822"/>
+		<item value="org.eclipse.tm.terminal.control.feature:4.6.0.202002152037"/>
+		<item value="org.eclipse.tm.terminal.feature:4.6.0.202001311822"/>
+		<item value="org.eclipse.tm.terminal.view.feature:4.6.0.202002151945"/>
+		<item value="org.robotframework.ide.eclipse.main.feature:0.9.2.201912171424"/>
+	</list>
+</section>

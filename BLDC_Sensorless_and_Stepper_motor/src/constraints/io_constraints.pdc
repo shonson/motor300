@@ -1,0 +1,62 @@
+# Microchip Physical design constraints file
+
+# Version: 2024.1 2024.1.0.3
+
+# Design Name: top 
+
+# Input Netlist Format: EDIF 
+
+# Family: SmartFusion2 , Die: M2S010 , Package: 484 FBGA , Speed grade: -1 
+
+# Date generated: Thu Jul  4 11:30:23 2024 
+
+
+#
+# IO banks setting
+#
+
+set_iobank Bank1 -vcci 2.50 -fixed no
+set_iobank Bank2 -vcci 2.50 -fixed no
+set_iobank Bank4 -vcci 2.50 -fixed no
+set_iobank Bank6 -vcci 2.50 -fixed no
+set_iobank Bank7 -vcci 2.50 -fixed no
+
+#
+# I/O constraints
+#
+
+set_io A0_ADC_CS_O -DIRECTION OUTPUT -OUT_DRIVE 12 -pinname F20 -fixed yes
+set_io A0_ADC_SCK_O -DIRECTION OUTPUT -OUT_DRIVE 12 -pinname F21 -fixed yes
+set_io A0_ADC_SDI_I -DIRECTION INPUT -pinname K21 -fixed yes
+set_io A0_ADC_SDO_O -DIRECTION OUTPUT -OUT_DRIVE 12 -pinname K20 -fixed yes
+set_io A0_PWM_UH_O -DIRECTION OUTPUT -OUT_DRIVE 12 -pinname E4 -fixed yes
+set_io A0_PWM_UL_O -DIRECTION OUTPUT -OUT_DRIVE 12 -pinname F6 -fixed yes
+set_io A0_PWM_VH_O -DIRECTION OUTPUT -OUT_DRIVE 12 -pinname H7 -fixed yes
+set_io A0_PWM_VL_O -DIRECTION OUTPUT -OUT_DRIVE 12 -pinname K7 -fixed yes
+set_io A0_PWM_WH_O -DIRECTION OUTPUT -OUT_DRIVE 12 -pinname G7 -fixed yes
+set_io A0_PWM_WL_O -DIRECTION OUTPUT -OUT_DRIVE 12 -pinname J6 -fixed yes
+set_io A0_RUNNING_LED -DIRECTION OUTPUT -pinname AB18 -fixed yes
+set_io A1_ADC_CS_O -DIRECTION OUTPUT -OUT_DRIVE 12 -pinname E21 -fixed yes
+set_io A1_ADC_SCK_O -DIRECTION OUTPUT -OUT_DRIVE 12 -pinname B22 -fixed yes
+set_io A1_ADC_SDI_I -DIRECTION INPUT -pinname E22 -fixed yes
+set_io A1_ADC_SDO_O -DIRECTION OUTPUT -OUT_DRIVE 12 -pinname Y18 -fixed yes
+set_io A1_PWM_UH_O -DIRECTION OUTPUT -OUT_DRIVE 12 -pinname N3 -fixed yes
+set_io A1_PWM_UL_O -DIRECTION OUTPUT -OUT_DRIVE 12 -pinname P4 -fixed yes
+set_io A1_PWM_VH_O -DIRECTION OUTPUT -OUT_DRIVE 12 -pinname L3 -fixed yes
+set_io A1_PWM_VL_O -DIRECTION OUTPUT -OUT_DRIVE 12 -pinname P3 -fixed yes
+set_io A1_PWM_WH_O -DIRECTION OUTPUT -OUT_DRIVE 12 -pinname L2 -fixed yes
+set_io A1_PWM_WL_O -DIRECTION OUTPUT -OUT_DRIVE 12 -pinname N4 -fixed yes
+set_io A1_RUNNING_LED -DIRECTION OUTPUT -pinname P1 -fixed yes
+set_io GPIO_0_M2F -DIRECTION OUTPUT -OUT_DRIVE 12 -pinname L19 -fixed yes
+set_io USB_ULPI_DATA\[0\] -DIRECTION INOUT -pinname V22 -fixed yes
+set_io USB_ULPI_DATA\[1\] -DIRECTION INOUT -pinname V21 -fixed yes
+set_io USB_ULPI_DATA\[2\] -DIRECTION INOUT -pinname U22 -fixed yes
+set_io USB_ULPI_DATA\[3\] -DIRECTION INOUT -pinname U21 -fixed yes
+set_io USB_ULPI_DATA\[4\] -DIRECTION INOUT -pinname T20 -fixed yes
+set_io USB_ULPI_DATA\[5\] -DIRECTION INOUT -pinname T21 -fixed yes
+set_io USB_ULPI_DATA\[6\] -DIRECTION INOUT -pinname P17 -fixed yes
+set_io USB_ULPI_DATA\[7\] -DIRECTION INOUT -pinname V19 -fixed yes
+set_io USB_ULPI_DIR -DIRECTION INPUT -pinname R18 -fixed yes
+set_io USB_ULPI_NXT -DIRECTION INPUT -pinname T19 -fixed yes
+set_io USB_ULPI_STP -DIRECTION OUTPUT -pinname T18 -fixed yes
+set_io USB_ULPI_XCLK -DIRECTION INPUT -pinname R17 -fixed yes

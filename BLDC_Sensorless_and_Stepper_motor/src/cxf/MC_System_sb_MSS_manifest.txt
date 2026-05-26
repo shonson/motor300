@@ -1,0 +1,38 @@
+Microchip Technology Inc. - Microchip Libero Software Release v2024.1 (Version 2024.1.0.3)
+
+Date      :  Tue Jul  2 19:15:01 2024
+Project   :  E:\Q1_2024_2025\Designs_update_TCL\Motor_Control\Scripts\4\SK2ABLSL_2024
+Component :  MC_System_sb_MSS
+Family    :  SmartFusion2
+
+
+HDL source files for all Synthesis and Simulation tools:
+    E:/Q1_2024_2025/Designs_update_TCL/Motor_Control/Scripts/4/SK2ABLSL_2024/component/work/MC_System_sb_MSS/MC_System_sb_MSS.v
+
+HDL source files for Synopsys SynplifyPro Synthesis tool:
+    E:/Q1_2024_2025/Designs_update_TCL/Motor_Control/Scripts/4/SK2ABLSL_2024/component/work/MC_System_sb_MSS/MC_System_sb_MSS_syn.v
+
+HDL source files for Mentor Precision Synthesis tool:
+    E:/Q1_2024_2025/Designs_update_TCL/Motor_Control/Scripts/4/SK2ABLSL_2024/component/work/MC_System_sb_MSS/MC_System_sb_MSS_pre.v
+    E:/Q1_2024_2025/Designs_update_TCL/Motor_Control/Scripts/4/SK2ABLSL_2024/component/work/MC_System_sb_MSS/MC_System_sb_MSS_pre.v
+
+Stimulus files for all Simulation tools:
+    E:/Q1_2024_2025/Designs_update_TCL/Motor_Control/Scripts/4/SK2ABLSL_2024/component/work/MC_System_sb_MSS/CM3_compile_bfm.tcl
+    E:/Q1_2024_2025/Designs_update_TCL/Motor_Control/Scripts/4/SK2ABLSL_2024/component/work/MC_System_sb_MSS/user.bfm
+    E:/Q1_2024_2025/Designs_update_TCL/Motor_Control/Scripts/4/SK2ABLSL_2024/component/work/MC_System_sb_MSS/test.bfm
+    E:/Q1_2024_2025/Designs_update_TCL/Motor_Control/Scripts/4/SK2ABLSL_2024/component/work/MC_System_sb_MSS/CM3_compile_bfm.tcl
+    E:/Q1_2024_2025/Designs_update_TCL/Motor_Control/Scripts/4/SK2ABLSL_2024/component/work/MC_System_sb_MSS/test.bfm
+    E:/Q1_2024_2025/Designs_update_TCL/Motor_Control/Scripts/4/SK2ABLSL_2024/component/Actel/SmartFusion2MSS/MSS/1.1.500/peripheral_init.bfm
+
+Firmware files for all Software IDE tools:
+    E:/Q1_2024_2025/Designs_update_TCL/Motor_Control/Scripts/4/SK2ABLSL_2024/component/work/MC_System_sb_MSS/sys_config_mss_clocks.h
+    E:/Q1_2024_2025/Designs_update_TCL/Motor_Control/Scripts/4/SK2ABLSL_2024/component/work/MC_System_sb_MSS/sys_config_mss_clocks.h
+
+Configuration files to be used for Programming:
+    E:/Q1_2024_2025/Designs_update_TCL/Motor_Control/Scripts/4/SK2ABLSL_2024/component/work/MC_System_sb_MSS/ENVM.cfg
+
+Configuration files to be used for all Simulation tools:
+    E:/Q1_2024_2025/Designs_update_TCL/Motor_Control/Scripts/4/SK2ABLSL_2024/component/work/MC_System_sb_MSS/ENVM.cfg
+
+Constraint files:
+    E:/Q1_2024_2025/Designs_update_TCL/Motor_Control/Scripts/4/SK2ABLSL_2024/component/work/MC_System_sb_MSS\MC_System_sb_MSS.sdc
