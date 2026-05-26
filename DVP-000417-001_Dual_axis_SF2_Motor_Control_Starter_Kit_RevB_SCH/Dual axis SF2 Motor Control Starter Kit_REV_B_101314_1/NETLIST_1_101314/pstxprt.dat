@@ -1,0 +1,3520 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Oct-13-2014 at 11:31:21 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SF2-MC-STARTER_KIT_REV_B_101314_1';
+ POST_TIME='Apr 28 2014 16:45:46';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ 12V_PG 'TEST POINT_0_TP_0603_TPAD':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17325631@LIBRARY1.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17325631@library1.\test point_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins17325631@library1.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_C1210_2.2UF_100V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16871238@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16871238@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16871238@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C105 'CAP_C0402_0.1UF/25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17260672@CAPACITORS.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17260672@capacitors.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins17260672@capacitors.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C108 'CAP NP_C0402_100NF/50V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16782192@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16782192@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16782192@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C109 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17292687@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17292687@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17292687@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_C1206_47UF_25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16871718@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16871718@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16871718@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C110 'CAPACITOR NON-POL_C0402_0.01UF/':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17296948@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17296948@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17296948@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C111 'CAPACITOR NON-POL_C0402_0.01UF/':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852392@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852392@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852392@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C113 'CAPACITOR NON-POL_C0805_22UF/16':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17294650@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17294650@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17294650@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C114 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17293491@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17293491@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17293491@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C115 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17065122@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17065122@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17065122@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C116 'CAPACITOR NON-POL_C0402_47PF':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852680@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852680@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852680@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C117 'CAPACITOR NON-POL_C0402_47PF':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852854@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852854@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852854@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C118 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17065757@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17065757@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17065757@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C119 'CAPACITOR NON-POL_C0402_0.01UF/':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17297731@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17297731@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17297731@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_C0805_0.01UF_100V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16871428@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16871428@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16871428@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C120 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17063967@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17063967@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17063967@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C121 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17064679@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17064679@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17064679@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C122 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17064963@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17064963@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17064963@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C123 'CAPACITOR NON-POL_C0402_1000PF/':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852914@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852914@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852914@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C124 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17295460@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17295460@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17295460@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C125 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17295116@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17295116@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17295116@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C126 'CAPACITOR NON-POL_C0805_22UF/16':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17294183@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17294183@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17294183@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C127 'CAPACITOR NON-POL_C0805_10UF/16':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17223238@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17223238@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17223238@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C128 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17078120@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17078120@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17078120@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C129 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17078818@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17078818@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17078818@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_C0402_5.6PF_25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16871833@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16871833@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16871833@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C130 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17078964@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17078964@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17078964@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C131 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17079110@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17079110@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17079110@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C132 'CAPACITOR NON-POL_C0805_10UF/16':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852804@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852804@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852804@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C133 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17079256@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17079256@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17079256@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C134 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17079718@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17079718@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17079718@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C135 'CAPACITOR NON-POL_C0603_4.7UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17295892@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17295892@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17295892@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C136 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17081671@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17081671@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17081671@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C137 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17082114@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17082114@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17082114@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C138 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17081896@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17081896@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17081896@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C139 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17082874@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17082874@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins17082874@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_C0402_2700PF_50V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16871812@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16871812@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16871812@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C140 'CAPACITOR NON-POL_C0805_22UF/16':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17243184@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17243184@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins17243184@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C141 'CAPACITOR NON-POL_C0805_22UF/16':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17243412@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17243412@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins17243412@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C142 'CAPACITOR NON-POL_C0402_0.01UF/':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17298068@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17298068@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins17298068@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C143 'CAPACITOR NON-POL_C0402_1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17296354@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17296354@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins17296354@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C144 'CAP NP_C0402_0.1UF/16V_NL':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17298646@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17298646@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins17298646@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C145 'CAPACITOR NON-POL_C0402_0.01UF/':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17298195@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17298195@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins17298195@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C146 'CAP NP_C0402_0.1UF/16V_NL':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17298879@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17298879@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins17298879@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C147 'CAPACITOR NON-POL_C0402_0.01UF/':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17298343@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17298343@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins17298343@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C148 'CAP_C0402_0.1UF/25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17398855@CAPACITORS.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17398855@capacitors.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins17398855@capacitors.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C149 'CAP NP_C0402_100NF/50V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17182026@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17182026@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins17182026@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP_C0805_10UF/25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16988477@CAPACITORS.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16988477@capacitors.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16988477@capacitors.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C150 'CAP NP_C0402_100NF/50V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17182184@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17182184@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins17182184@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C151 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17293030@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17293030@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17293030@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C152 'CAP_C0603_1UF/25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17303376@CAPACITORS.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17303376@capacitors.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins17303376@capacitors.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C153 'CAP_C0603_1UF/25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17303515@CAPACITORS.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17303515@capacitors.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins17303515@capacitors.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C154 'CAP NP_C0603_470PF/100V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17344983@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17344983@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17344983@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C155 'CAPACITOR NON-POL_C0805_0.1UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17345137@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17345137@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17345137@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C156 'CAP_C0603_1UF/25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17345175@CAPACITORS.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17345175@capacitors.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17345175@capacitors.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C157 'CAPACITOR NON-POL_C0805_0.1UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17345298@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17345298@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17345298@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C158 'CAPACITOR NON-POL_C0805_0.1UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17345314@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17345314@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17345314@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP_C0805_10UF/25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16988494@CAPACITORS.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16988494@capacitors.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16988494@capacitors.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C160 'CAPACITOR NON-POL_C0402_0.01UF/':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17385208@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17385208@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins17385208@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C161 'CAPACITOR NON-POL_C0402_0.01UF/':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17385450@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17385450@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins17385450@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C162 'CAPACITOR NON-POL_C0402_0.01UF/':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17385562@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17385562@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins17385562@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C163 'CAPACITOR NON-POL_C0402_0.01UF/':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17385677@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17385677@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins17385677@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C164 'CAPACITOR NON-POL_C0402_0.01UF/':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17385793@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17385793@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins17385793@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C165 'CAPACITOR NON-POL_C0402_0.01UF/':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17385903@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17385903@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins17385903@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C166 'CAPACITOR NON-POL_C0402_0.01UF/':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17386248@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17386248@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins17386248@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP_C0402_0.1UF/25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16988609@CAPACITORS.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16988609@capacitors.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16988609@capacitors.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_C0603_10UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16988677@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16988677@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16988677@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP_C0402_0.1UF/25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16988512@CAPACITORS.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16988512@capacitors.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16988512@capacitors.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_C0402_0.1UF/25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16874120@CAPACITORS.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16874120@capacitors.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16874120@capacitors.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAPACITOR NON-POL_C0805_22UF/16':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16988530@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16988530@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16988530@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAPACITOR NON-POL_C0805_22UF/16':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16988542@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16988542@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16988542@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP NP_C0603_10UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16988685@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16988685@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16988685@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP_C0402_0.1UF/25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16988654@CAPACITORS.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16988654@capacitors.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16988654@capacitors.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_C0603_10UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16989025@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16989025@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16989025@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16989033@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16989033@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16989033@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_C0603_10UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16989093@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16989093@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16989093@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16989101@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16989101@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16989101@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP_12P5MM_THT_EEU_330UF/63V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17323301@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17323301@discrete.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins17323301@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP_12P5MM_THT_EEU_330UF/63V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17323309@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17323309@discrete.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins17323309@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP_C0402_0.1UF/25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16877354@CAPACITORS.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16877354@capacitors.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16877354@capacitors.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP NP_C1206_47UF_25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17303919@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17303919@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins17303919@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP_12P5MM_THT_EEU_330UF/63V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17323317@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17323317@discrete.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins17323317@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP NP_C0805_0.01UF_100V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17323352@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17323352@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins17323352@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAPACITOR NON-POL_C0805_0.1UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16943952@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16943952@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins16943952@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAPACITOR NON-POL_C0805_0.1UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16943832@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16943832@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins16943832@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAPACITOR NON-POL_C0805_0.1UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16943852@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16943852@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins16943852@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP_C0603_1UF/25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17303780@CAPACITORS.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17303780@capacitors.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins17303780@capacitors.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP NP_C0603_470PF/100V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16946443@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16946443@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins16946443@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP_C0603_1UF/25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16877417@CAPACITORS.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16877417@capacitors.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16877417@capacitors.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP NP_C0603_470PF/100V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16946435@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16946435@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins16946435@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP NP_C0603_470PF/100V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16946427@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16946427@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins16946427@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'CAPACITOR NON-POL_C0805_0.1UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16944034@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16944034@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins16944034@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16936454@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16936454@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins16936454@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'CAPACITOR NON-POL_C0805_0.1UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16943744@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16943744@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins16943744@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'CAPACITOR NON-POL_C0805_0.1UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16943764@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16943764@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins16943764@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C46 'CAP_C0603_1UF/25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17317293@CAPACITORS.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17317293@capacitors.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins17317293@capacitors.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C47 'CAPACITOR NON-POL_C0805_0.1UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16944104@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16944104@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins16944104@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C48 'CAPACITOR NON-POL_C0805_0.1UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16943278@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16943278@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins16943278@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C49 'CAPACITOR NON-POL_C0805_0.1UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16943662@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16943662@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins16943662@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAPACITOR NON-POL_C0805_4.7UF/2':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16877644@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16877644@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16877644@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C50 'CAP_C0603_1UF/25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17304323@CAPACITORS.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17304323@capacitors.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17304323@capacitors.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C51 'CAP NP_C1206_47UF_25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17304121@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17304121@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17304121@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C56 'CAPACITOR NON-POL_C0805_0.1UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17104588@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17104588@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17104588@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C57 'CAPACITOR NON-POL_C0805_0.1UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17104556@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17104556@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17104556@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C58 'CAPACITOR NON-POL_C0805_0.1UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17104572@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17104572@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17104572@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C59 'CAP_C0603_1UF/25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17304525@CAPACITORS.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17304525@capacitors.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17304525@capacitors.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_C0805_10UF/25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16877630@CAPACITORS.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16877630@capacitors.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16877630@capacitors.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C60 'CAP_C0603_1UF/25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17339751@CAPACITORS.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17339751@capacitors.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17339751@capacitors.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C61 'CAP NP_C0603_470PF/100V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17104828@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17104828@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17104828@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C62 'CAP NP_C0603_470PF/100V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17104802@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17104802@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17104802@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C63 'CAP NP_C0603_470PF/100V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17104810@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17104810@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17104810@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C64 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17104976@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17104976@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17104976@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C65 'CAPACITOR NON-POL_C0805_0.1UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17339728@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17339728@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17339728@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C66 'CAPACITOR NON-POL_C0805_0.1UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17104524@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17104524@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17104524@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C67 'CAPACITOR NON-POL_C0805_0.1UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17104540@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17104540@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17104540@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C68 'CAP_C0603_1UF/25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17304990@CAPACITORS.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17304990@capacitors.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17304990@capacitors.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C69 'CAPACITOR NON-POL_C0805_0.1UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17104660@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17104660@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17104660@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_C1210_2.2UF_100V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16877101@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16877101@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16877101@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C70 'CAPACITOR NON-POL_C0805_0.1UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17105384@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17105384@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17105384@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C71 'CAPACITOR NON-POL_C0805_0.1UF/1':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17105448@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17105448@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17105448@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C72 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17220774@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17220774@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins17220774@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C73 'CAP NP_C0402_2.2UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17159232@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17159232@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins17159232@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C74 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17221115@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17221115@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins17221115@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C75 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17159218@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17159218@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins17159218@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C76 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17159683@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17159683@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins17159683@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C77 'CAPACITOR NON-POL_C0402_1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17160225@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17160225@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins17160225@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C78 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17165057@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17165057@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins17165057@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C79 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17220635@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17220635@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins17220635@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_C1210_2.2UF_100V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16877093@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16877093@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16877093@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C80 'CAP NP_C0402_2.2UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17165065@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17165065@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins17165065@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C81 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17220913@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17220913@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins17220913@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C82 'CAP NP_C0402_0.1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17165098@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17165098@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins17165098@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C83 'CAP NP_C0402_100NF/50V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16967532@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16967532@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins16967532@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C84 'CAPACITOR NON-POL_C0402_1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17165113@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17165113@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins17165113@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C85 'CAP NP_C0402_100NF/50V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16971685@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16971685@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins16971685@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C86 'CAPACITOR NON-POL_C0402_1UF/16V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17398875@HX3 SILICON-07-26-12.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17398875@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins17398875@\hx3 silicon-07-26-12\.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_C1210_2.2UF_100V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16871230@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16871230@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16871230@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C90 'CAP NP_C0402_100NF/50V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16971765@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16971765@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins16971765@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C92 'CAP NP_C0402_100NF/50V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16971305@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16971305@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins16971305@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C94 'CAP NP_C0402_100PF/50V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16774911@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16774911@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16774911@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C96 'CAP NP_C0402_100PF/50V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16776089@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16776089@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16776089@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C97 'CAP NP_C0402_100PF/50V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16776167@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16776167@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16776167@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C98 'CAP NP_C0402_100PF/50V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16776193@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16776193@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16776193@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C99 'CAP_C0402_0.1UF/25V':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17260531@CAPACITORS.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17260531@capacitors.\cap.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins17260531@capacitors.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE ZENER_DO-214AB_SMBJ51A':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16883654@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16883654@discrete.\diode zener.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16883654@discrete.\diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D10 'DIODE BI-DIR TRIG_0_D0603_PGB10':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17063031@LIFECARD_REVA_021914_2.DIODE BI-DIR TRIG_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17063031@lifecard_reva_021914_2.\diode bi-dir trig_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17063031@lifecard_reva_021914_2.\diode bi-dir trig_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D11 'DIODE BI-DIR TRIG_0_D0603_PGB10':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17063021@LIFECARD_REVA_021914_2.DIODE BI-DIR TRIG_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17063021@lifecard_reva_021914_2.\diode bi-dir trig_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17063021@lifecard_reva_021914_2.\diode bi-dir trig_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D12 'LED_HSMG-C170_LED GREEN':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16854070@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16854070@discrete.\led.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins16854070@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D13 'LED_HSMG-C170_LED GREEN':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16854048@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16854048@discrete.\led.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins16854048@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D14 'LED_HSMG-C170_LED GREEN':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16853916@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16853916@discrete.\led.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins16853916@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D16 'LED_HSMG-C170_LED GREEN':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16854124@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16854124@discrete.\led.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins16854124@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE SCHOTTKY13_DO-214AB_STPS5':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16871663@MOTOR CONTROL BOARD_070714.DIODE SCHOTTKY13.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16871663@\motor control board_070714\.\diode schottky13.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16871663@\motor control board_070714\.\diode schottky13.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE SCHOTTKY_BAT54VV_BAT54VV':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16777373@LIBRARY19.DIODE SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16777373@library19.\diode schottky.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16777373@library19.\diode schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'DIODE SCHOTTKY_BAT54VV_BAT54VV':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16776441@LIBRARY19.DIODE SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16776441@library19.\diode schottky.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16776441@library19.\diode schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D8 'DIODE BI-DIR TRIG_0_D0603_PGB10':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17062852@LIFECARD_REVA_021914_2.DIODE BI-DIR TRIG_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17062852@lifecard_reva_021914_2.\diode bi-dir trig_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17062852@lifecard_reva_021914_2.\diode bi-dir trig_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D9 'DIODE BI-DIR TRIG_0_D0603_PGB10':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17062842@LIFECARD_REVA_021914_2.DIODE BI-DIR TRIG_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17062842@lifecard_reva_021914_2.\diode bi-dir trig_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17062842@lifecard_reva_021914_2.\diode bi-dir trig_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F1 'FUSEHOLDER_2_FUSE_SMD_HLDR_8A_0':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16883640@SF2-MC-STARTERKIT_072114_1.FUSEHOLDER_2.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16883640@\sf2-mc-starterkit_072114_1\.\fuseholder_2.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16883640@\sf2-mc-starterkit_072114_1\.\fuseholder_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ GND1 'TEST POINT_0_TP_0603_TPAD':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17367171@LIBRARY1.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17367171@library1.\test point_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins17367171@library1.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ GND2 'TEST POINT_0_TP_0603_TPAD':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17367638@LIBRARY1.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17367638@library1.\test point_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins17367638@library1.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ GND3 'TEST POINT_0_TP_0603_TPAD':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17367772@LIBRARY1.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17367772@library1.\test point_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins17367772@library1.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ GND4 'TEST POINT_0_TP_0603_TPAD':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17367908@LIBRARY1.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17367908@library1.\test point_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins17367908@library1.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ GPIO1 'TEST POINT_0_TP_0603_TPAD':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17148002@LIBRARY1.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17148002@library1.\test point_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page10_ins17148002@library1.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ GPIO2 'TEST POINT_0_TP_0603_TPAD':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17148016@LIBRARY1.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17148016@library1.\test point_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page10_ins17148016@library1.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ GPIO3 'TEST POINT_0_TP_0603_TPAD':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17148024@LIBRARY1.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17148024@library1.\test point_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page10_ins17148024@library1.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ GPIO4 'TEST POINT_0_TP_0603_TPAD':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17148032@LIBRARY1.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17148032@library1.\test point_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page10_ins17148032@library1.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ GPIO5 'TEST POINT_0_TP_0603_TPAD':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17170965@LIBRARY1.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17170965@library1.\test point_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page10_ins17170965@library1.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ GPIO6 'TEST POINT_0_TP_0603_TPAD':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17170971@LIBRARY1.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17170971@library1.\test point_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page10_ins17170971@library1.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ GPIO7 'TEST POINT_0_TP_0603_TPAD':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17398339@LIBRARY1.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17398339@library1.\test point_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page10_ins17398339@library1.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ GPIO8 'TEST POINT_0_TP_0603_TPAD':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17398333@LIBRARY1.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17398333@library1.\test point_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page10_ins17398333@library1.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J11 'HDR_2_HDR2X5_10PIN JUMPER':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16778638@MOTOR CONTROL BOARD_070114_1.HDR_2.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16778638@\motor control board_070114_1\.\hdr_2.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16778638@\motor control board_070114_1\.\hdr_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J12 'PHONEJACK_1_PJ-202AH_JACK_DC JA':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17403099@PHONEJACK_1.PHONEJACK_1.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17403099@phonejack_1.\phonejack_1.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins17403099@phonejack_1.\phonejack_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J13 'HDR5X1_4_HDR2X3_100MIL_1_HDR2X3':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16780809@HDR5X1_4.HDR5X1_4.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16780809@hdr5x1_4.\hdr5x1_4.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16780809@hdr5x1_4.\hdr5x1_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J15 'J00-0045NL_J00-0045NL_J00-0045N':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852710@LIBRARY20.J00-0045NL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852710@library20.\j00-0045nl.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852710@library20.\j00-0045nl.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J16 '54819-0572_54819-0572_54819-057':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16853096@LIBRARY20.54819-0572.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16853096@library20.\54819-0572.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16853096@library20.\54819-0572.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J17 '67803-8020_67803-8020_67803-802':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16853120@LIBRARY20.67803-8020.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16853120@library20.\67803-8020.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16853120@library20.\67803-8020.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J19 'HEADER_1X2_100MIL_HEADER_1X2_10':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17146697@LIBRARY1.HEADER_1X2_100MIL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17146697@library1.\header_1x2_100mil.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins17146697@library1.\header_1x2_100mil.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'MOTOR_HEADRE_RIA330-03_RIA330-0':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16948372@MOTOR CONTROL BOARD_062714.MOTOR_HEADRE.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16948372@\motor control board_062714\.\motor_headre.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins16948372@\motor control board_062714\.\motor_headre.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J20 'HEADER 5X2_HDR_2X5_BOX_HEADER 2':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16854896@CONNECTOR.HEADER 5X2.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16854896@connector.\header 5x2.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page10_ins16854896@connector.\header 5x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J22 'JUMPER-2X2PIN_HDR2X2_100MIL_HDR':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16855326@JUMPER-2X2PIN.JUMPER-2X2PIN.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16855326@\jumper-2x2pin\.\jumper-2x2pin.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page10_ins16855326@\jumper-2x2pin\.\jumper-2x2pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J23 'JUMPER-2X2PIN_HDR2X2_100MIL_HDR':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17120626@JUMPER-2X2PIN.JUMPER-2X2PIN.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17120626@\jumper-2x2pin\.\jumper-2x2pin.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins17120626@\jumper-2x2pin\.\jumper-2x2pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J25 'CON6_HDR6X1_CON6':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17397804@CONNECTOR.CON6.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17397804@connector.\con6.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins17397804@connector.\con6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'MOTOR_HEADER_4PIN_RIA330-04_RIA':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17340507@LIB_MTB_071114.MOTOR_HEADER_4PIN.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17340507@lib_mtb_071114.\motor_header_4pin.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17340507@lib_mtb_071114.\motor_header_4pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'HDR_0_RIA182-05_RIA182-05':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16774193@MOTOR CONTROL BOARD_070114_1.HDR_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16774193@\motor control board_070114_1\.\hdr_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16774193@\motor control board_070114_1\.\hdr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'HDR5X1_4_HDR2X3_100MIL_HDR2X3':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16779789@HDR5X1_4.HDR5X1_4.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16779789@hdr5x1_4.\hdr5x1_4.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16779789@hdr5x1_4.\hdr5x1_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'HDR5X1_4_HDR2X3_100MIL_HDR2X3':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16781366@HDR5X1_4.HDR5X1_4.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16781366@hdr5x1_4.\hdr5x1_4.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16781366@hdr5x1_4.\hdr5x1_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_12X12MM_MSS1260_33UH':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16871626@HX3 SILICON-07-26-12.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16871626@\hx3 silicon-07-26-12\.\inductor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16871626@\hx3 silicon-07-26-12\.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L13 'INDUCTOR_FB0603_600R@100MHZ/1A':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16778692@HX3 SILICON-07-26-12.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16778692@\hx3 silicon-07-26-12\.\inductor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16778692@\hx3 silicon-07-26-12\.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L14 'INDUCTOR_FB0603_BLM18PG121SN1D':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852934@HX3 SILICON-07-26-12.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852934@\hx3 silicon-07-26-12\.\inductor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852934@\hx3 silicon-07-26-12\.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L15 'INDUCTOR_FB0603_BLM18PG121SN1D':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852884@HX3 SILICON-07-26-12.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852884@\hx3 silicon-07-26-12\.\inductor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852884@\hx3 silicon-07-26-12\.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L16 'INDUCTOR_FB0603_BLM18PG121SN1D':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852456@HX3 SILICON-07-26-12.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852456@\hx3 silicon-07-26-12\.\inductor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852456@\hx3 silicon-07-26-12\.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L17 'INDUCTOR_FB0603_BLM18PG121SN1D':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852754@HX3 SILICON-07-26-12.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852754@\hx3 silicon-07-26-12\.\inductor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852754@\hx3 silicon-07-26-12\.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_10X10MM_SRU1048_4.7UH':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16988465@HX3 SILICON-07-26-12.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16988465@\hx3 silicon-07-26-12\.\inductor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16988465@\hx3 silicon-07-26-12\.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L9 'INDUCTOR_FB0603_600R@100MHZ/1A':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16774873@HX3 SILICON-07-26-12.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16774873@\hx3 silicon-07-26-12\.\inductor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16774873@\hx3 silicon-07-26-12\.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED1 'LED_LED0603_GRN':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17323795@DISCRETE_SEMICONDUCTORS.LED.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17323795@discrete_semiconductors.\led.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins17323795@discrete_semiconductors.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P1 'DF40HC-4_0-80DS-0_4V_DF40HC-4_0':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16855128@LIBRARY20.DF40HC-4_0-80DS-0_4V.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16855128@library20.\df40hc-4_0-80ds-0_4v.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page10_ins16855128@library20.\df40hc-4_0-80ds-0_4v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P2 'DF40HC-4_0-80DS-0_4V_DF40HC-4_0':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16854932@LIBRARY20.DF40HC-4_0-80DS-0_4V.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16854932@library20.\df40hc-4_0-80ds-0_4v.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page10_ins16854932@library20.\df40hc-4_0-80ds-0_4v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_R0402_76.8K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16871793@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16871793@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16871793@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R103 'RESISTOR_RC0402_47K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16780859@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16780859@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16780859@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R104 'RESISTOR_RC0402_47K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16780878@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16780878@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16780878@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R105 'RESISTOR_RC0402_47K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16780898@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16780898@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16780898@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R111 'RESISTOR_RC0402_3.3K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16780961@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16780961@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16780961@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R112 'RESISTOR_RC0402_2.2K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16781081@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16781081@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16781081@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R113 'R_R0402_270R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852764@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852764@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852764@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R114 'R_R0402_270R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852690@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852690@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852690@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R115 'R_R1206_5.1MEG 0.25W':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852744@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852744@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852744@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R116 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852814@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852814@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852814@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R117 'R_R0402_820R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852924@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852924@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852924@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R118 'R_R0402_0R_NL':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852670@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852670@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852670@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R119 'R_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852834@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852834@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852834@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16988625@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16988625@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16988625@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R120 'R_R0402_0R_NL':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852904@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852904@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852904@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R121 'R_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16853066@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16853066@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16853066@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R122 'R_R0402_12K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852436@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852436@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852436@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R123 'R_R0402_0R_NL':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852984@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852984@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852984@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R124 'R_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852446@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852446@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852446@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R125 'R_R0402_33R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16853036@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16853036@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16853036@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R126 'R_R0402_10K_NL':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852974@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852974@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852974@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R127 'RESISTOR_R0402_1K/1%_NL':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17238340@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17238340@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins17238340@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R128 'R_R0805_0.16R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16853886@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16853886@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins16853886@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R129 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16854026@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16854026@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins16854026@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_R0402_274K_1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16988567@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16988567@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16988567@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R130 'R_R0402_270R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16853906@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16853906@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins16853906@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R131 'R_R0402_270R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16854134@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16854134@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins16854134@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R132 'R_R0402_270R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16853960@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16853960@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins16853960@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R134 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16853986@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16853986@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins16853986@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R135 'R_R0402_270R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16853970@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16853970@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins16853970@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R136 'R_R0402_10K_NL':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16853950@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16853950@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins16853950@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R137 'R_R0402_100R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16853996@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16853996@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins16853996@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R138 'R_R0402_100R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16854006@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16854006@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins16854006@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R139 'R_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16854748@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16854748@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page10_ins16854748@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_R0402_49.9K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16988575@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16988575@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16988575@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R140 'R_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16854824@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16854824@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page10_ins16854824@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R141 'R_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16854876@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16854876@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page10_ins16854876@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R142 'R_R0402_33R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16855118@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16855118@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page10_ins16855118@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R143 'R_R0402_33R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16854922@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16854922@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page10_ins16854922@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R145 'R_R0402_33R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16854738@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16854738@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page10_ins16854738@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R149 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16855108@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16855108@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page10_ins16855108@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R153 'RESISTOR_R0402_1K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17239197@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17239197@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page10_ins17239197@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R154 'R_R0402_10K_NL':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16855362@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16855362@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page10_ins16855362@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R155 'R_R0402_1K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17175545@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17175545@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins17175545@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R156 'R_R0402_1K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17175560@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17175560@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins17175560@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R157 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17182239@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17182239@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins17182239@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R158 'R_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17325531@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17325531@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins17325531@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R159 'RESISTOR_RC0402_470R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17325812@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17325812@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins17325812@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R160 'R_R0603_0R/0603':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17398863@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17398863@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins17398863@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R162 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17350483@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17350483@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17350483@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R165 'R_R0603_0R_NL':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17350705@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17350705@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17350705@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R166 'R_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17380699@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17380699@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins17380699@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R167 'R_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17380839@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17380839@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins17380839@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R168 'RESISTOR_R0402_1K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17397230@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17397230@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins17397230@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_R0603_0R/0603':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17138874@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17138874@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins17138874@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R176 'RESISTOR_R0402_1K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17397252@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17397252@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins17397252@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R177 'RESISTOR_R0402_1K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17397269@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17397269@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins17397269@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R178 'RESISTOR_R0402_1K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17397286@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17397286@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins17397286@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R179 'RESISTOR_R0402_1K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17397368@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17397368@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins17397368@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17140390@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17140390@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins17140390@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R180 'RESISTOR_R0402_1K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17397383@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17397383@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins17397383@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R181 'RESISTOR_R0402_1K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17397400@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17397400@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins17397400@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17140398@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17140398@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins17140398@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_R2728_WIDE_0.020R/4W':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16881635@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16881635@discrete.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16881635@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17140406@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17140406@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins17140406@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_R3624_0.020R/2W':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17138896@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17138896@discrete.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins17138896@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_R0603_0R/0603':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17138866@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17138866@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins17138866@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16936479@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16936479@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins16936479@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_R0603_0R_NL':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16936462@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16936462@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins16936462@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16936536@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16936536@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins16936536@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16936441@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16936441@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins16936441@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_R0402_43K_1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16936549@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16936549@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins16936549@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_R0603_0R/0603':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17139401@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17139401@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins17139401@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'R_R3624_0.020R/2W':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17139391@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17139391@discrete.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins17139391@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R_R0603_0R/0603':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17139409@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17139409@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins17139409@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R_R0805_1R_0.25W':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16936507@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16936507@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins16936507@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R_R0603_0R/0603':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17139864@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17139864@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins17139864@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'R_R3624_0.020R/2W':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17139874@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17139874@discrete.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins17139874@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'R_R0603_0R/0603':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17139846@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17139846@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins17139846@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'R_R0603_0R/0603':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17144435@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17144435@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17144435@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17141473@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17141473@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17141473@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17141481@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17141481@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17141481@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'R_R3624_0.020R/2W':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17144453@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17144453@discrete.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17144453@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'R_R0603_0R/0603':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17144443@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17144443@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17144443@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17350124@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17350124@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17350124@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'R_R0603_0R_NL':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17349838@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17349838@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17349838@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R46 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17351044@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17351044@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17351044@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R47 'R_R0402_43K_1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17105069@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17105069@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17105069@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R48 'R_R0603_0R/0603':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17144505@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17144505@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17144505@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R49 'R_R3624_0.020R/2W':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17144495@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17144495@discrete.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17144495@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_R0402_332K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16871297@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16871297@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16871297@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R50 'R_R0603_0R/0603':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17144487@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17144487@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17144487@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R51 'R_R0805_1R_0.25W':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17105039@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17105039@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17105039@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R52 'R_R0603_0R/0603':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17144539@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17144539@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17144539@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R53 'R_R3624_0.020R/2W':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17144547@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17144547@discrete.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17144547@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R54 'R_R0603_0R/0603':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17144529@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17144529@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17144529@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R55 'R_R0805_1R_0.25W':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17155235@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17155235@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins17155235@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R56 'RESISTOR_R0402_1K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS1223@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins1223@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins1223@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R58 'R_R0805_1R_0.25W':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17164931@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17164931@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins17164931@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_R0402_140K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16871985@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16871985@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16871985@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R61 'RESISTOR_R0402_1K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS1840@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins1840@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins1840@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R64 'RESISTOR_R0402_1K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS2514@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins2514@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins2514@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R66 'RESISTOR_R0402_15K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16967524@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16967524@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins16967524@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R67 'RESISTOR_R0402_1K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16967550@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16967550@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins16967550@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R69 'RESISTOR_R0402_1K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16971717@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16971717@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins16971717@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_R0402_56.2K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16871311@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16871311@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16871311@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R74 'RESISTOR_R0402_1K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16971797@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16971797@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins16971797@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R77 'RESISTOR_R0402_1K/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16971333@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16971333@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins16971333@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R79 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16775778@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16775778@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16775778@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_R0402_165K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16871463@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16871463@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16871463@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R80 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16775882@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16775882@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16775882@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R81 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16775908@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16775908@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16775908@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R85 'RESISTOR_RC0402_220R/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16775690@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16775690@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16775690@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R86 'RESISTOR_RC0402_220R/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16775722@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16775722@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16775722@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R89 'RESISTOR_RC0402_220R/1%':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16775750@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16775750@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16775750@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16872611@HX3 SILICON-07-26-12.R.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16872611@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16872611@\hx3 silicon-07-26-12\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R91 'RESISTOR_RC0402_470R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16780021@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16780021@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16780021@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R92 'RESISTOR_RC0402_470R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16780400@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16780400@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16780400@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R93 'RESISTOR_RC0402_470R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16780420@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16780420@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16780420@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R94 'RESISTOR_RC0402_120R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16781417@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16781417@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16781417@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R95 'RESISTOR_RC0402_120R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16781446@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16781446@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16781446@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R96 'RESISTOR_RC0402_120R':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16781466@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16781466@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16781466@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'TL3301AF160QJ_TL3301_SPST_TL330':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16854110@LIBRARY20.TL3301AF160QJ.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16854110@library20.\tl3301af160qj.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins16854110@library20.\tl3301af160qj.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'TL3301AF160QJ_TL3301_SPST_TL330':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16853862@LIBRARY20.TL3301AF160QJ.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16853862@library20.\tl3301af160qj.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins16853862@library20.\tl3301af160qj.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'SW DPDT_SW_DPDT_1201_SW_DPDT':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17396822@DISCRETE.SW DPDT.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17396822@discrete.\sw dpdt.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins17396822@discrete.\sw dpdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'TPS54160QDRCRQ1_10SON_TPS54160Q':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16871208@MOTOR CONTROL BOARD_062714.TPS54160QDRCRQ1.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16871208@\motor control board_062714\.\tps54160qdrcrq1.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16871208@\motor control board_062714\.\tps54160qdrcrq1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'AD8206YRZ_8SOIC_AD8206YRZ_AD820':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS1708@LIBRARY19.AD8206YRZ.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins1708@library19.\ad8206yrz.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins1708@library19.\ad8206yrz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'ADS7950SBRGER_24-QFN_ADS7950_AD':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17165130@ADS7950SBRGER.ADS7950SBRGER.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17165130@ads7950sbrger.\ads7950sbrger.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins17165130@ads7950sbrger.\ads7950sbrger.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U13 'AD8206YRZ_8SOIC_AD8206YRZ_AD820':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS2390@LIBRARY19.AD8206YRZ.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins2390@library19.\ad8206yrz.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins2390@library19.\ad8206yrz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U15 'AD8206YRZ_8SOIC_AD8206YRZ_AD820':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16971647@LIBRARY19.AD8206YRZ.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16971647@library19.\ad8206yrz.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins16971647@library19.\ad8206yrz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U19 'AD8206YRZ_8SOIC_AD8206YRZ_AD820':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16971743@LIBRARY19.AD8206YRZ.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16971743@library19.\ad8206yrz.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins16971743@library19.\ad8206yrz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'TPS562200_SOT23-6_TPS562200_TPS':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16988447@MOTOR CONTROL BOARD_062714.TPS562200.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16988447@\motor control board_062714\.\tps562200.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16988447@\motor control board_062714\.\tps562200.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U21 'AD8206YRZ_8SOIC_AD8206YRZ_AD820':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16971823@LIBRARY19.AD8206YRZ.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16971823@library19.\ad8206yrz.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page6_ins16971823@library19.\ad8206yrz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U23 '74LVC3G17_74LVC3G17_8TSSOP_74LV':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16777492@LIBRARY19.74LVC3G17.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16777492@library19.\74lvc3g17.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16777492@library19.\74lvc3g17.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U25 'AM26LV32ID_AM26LV32ID_AM26LV32I':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16779150@LIBRARY19.AM26LV32ID.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16779150@library19.\am26lv32id.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page7_ins16779150@library19.\am26lv32id.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U27 'FT232RL_FT232RL_FT232RL':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852598@LIBRARY20.FT232RL.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852598@library20.\ft232rl.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852598@library20.\ft232rl.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U28 'MIC2025-1YMM_MIC2025-1YMM_MIC20':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16853014@LIBRARY20.MIC2025-1YMM.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16853014@library20.\mic2025-1ymm.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16853014@library20.\mic2025-1ymm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U29 'USB3300-EZK_USB3300-EZK_USB3300':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852486@LIBRARY20.USB3300-EZK.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852486@library20.\usb3300-ezk.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852486@library20.\usb3300-ezk.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'LT1965EDD-3.3#PBF_8DFN_LT1965_L':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16988987@MOTOR CONTROL BOARD_062714.LT1965EDD-3.3#PBF.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16988987@\motor control board_062714\.\lt1965edd-3.3#pbf.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins16988987@\motor control board_062714\.\lt1965edd-3.3#pbf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U30 'TPS73733DCQ_TPS73733DCQ_TPS7373':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16854154@LIBRARY20.TPS73733DCQ.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16854154@library20.\tps73733dcq.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins16854154@library20.\tps73733dcq.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U31 '74LX1G07STR_SOT23-5_74LX1G07STR':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16853824@LIBRARY20.74LX1G07STR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16853824@library20.\74lx1g07str.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins16853824@library20.\74lx1g07str.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U32 'RT9818C-29GV_RT9818C-29GV_SOT23':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16853840@LIBRARY20.RT9818C-29GV.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16853840@library20.\rt9818c-29gv.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins16853840@library20.\rt9818c-29gv.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'DRV8332DKDR_36HSSOP_DRV8332_DRV':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16904510@MOTOR CONTROL BOARD_062714.DRV8332DKDR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16904510@\motor control board_062714\.\drv8332dkdr.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page3_ins16904510@\motor control board_062714\.\drv8332dkdr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'DRV8432DKDR_36HSSOP_DRV8332_DRV':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17338914@LIB_MTB_071114.DRV8432DKDR.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17338914@lib_mtb_071114.\drv8432dkdr.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page4_ins17338914@lib_mtb_071114.\drv8432dkdr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'AD8206YRZ_8SOIC_AD8206YRZ_AD820':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS512@LIBRARY19.AD8206YRZ.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins512@library19.\ad8206yrz.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins512@library19.\ad8206yrz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'AD8206YRZ_8SOIC_AD8206YRZ_AD820':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS1002@LIBRARY19.AD8206YRZ.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins1002@library19.\ad8206yrz.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins1002@library19.\ad8206yrz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'ADS7950SBRGER_24-QFN_ADS7950_AD':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17149140@ADS7950SBRGER.ADS7950SBRGER.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17149140@ads7950sbrger.\ads7950sbrger.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page5_ins17149140@ads7950sbrger.\ads7950sbrger.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V12P0 'TEST POINT_0_TP_0603_TPAD':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17366746@LIBRARY1.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17366746@library1.\test point_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins17366746@library1.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V3P3 'TEST POINT_0_TP_0603_TPAD':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17367042@LIBRARY1.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17367042@library1.\test point_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins17367042@library1.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V5P0 'TEST POINT_0_TP_0603_TPAD':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17366953@LIBRARY1.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17366953@library1.\test point_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins17366953@library1.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VCC3 'TEST POINT_0_TP_0603_TPAD':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17367097@LIBRARY1.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17367097@library1.\test point_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page9_ins17367097@library1.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VS_ALL 'TEST POINT_0_TP_0603_TPAD':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17366340@LIBRARY1.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17366340@library1.\test point_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins17366340@library1.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VS_MOTOR 'TEST POINT_0_TP_0603_TPAD':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS17366708@LIBRARY1.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins17366708@library1.\test point_0.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page2_ins17366708@library1.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'ASDMB-24.000MHZ-LC-T_ASFLMB-24M':;
+
+SECTION_NUMBER 1
+ '@SF2-MC-STARTER_KIT_REV_B_101314_1.SCHEMATIC1(SCH_1):INS16852422@LIBRARY20.ASDMB-24.000MHZ-LC-T.NORMAL(CHIPS)':
+ C_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):ins16852422@library20.\asdmb-24.000mhz-lc-t.normal\(chips)',
+ P_PATH='@\sf2-mc-starter_kit_rev_b_101314_1\.schematic1(sch_1):page8_ins16852422@library20.\asdmb-24.000mhz-lc-t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
