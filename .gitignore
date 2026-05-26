@@ -1,0 +1,62 @@
+# Libero IDE generated files
+*.log
+*.jou
+*.backup
+*.lck
+*.syn
+*.vst
+*.ngo
+*.xst
+*.srp
+*.xrpt
+*.twr
+*.twx
+*.ncd
+*.ngd
+*.ngc
+*.ngr
+*.bld
+*.map
+*.pcf
+*.psr
+*.xml
+*.html
+*.xdl
+*.pad
+*.par
+*.csv
+*.txt.bak
+
+# SoftConsole IDE
+*.metadata
+*.classpath
+*.project
+*.cproject
+.settings/
+Debug/
+Release/
+
+# Build artifacts
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.out
+*.map
+*.lst
+*.d
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+
+# Libero project specific
+BLDC_with_Encoder_Design/BLDC_with_Encoder_Design_Job_File/
+BLDC_with_Encoder_Design/softconsole2021p1/MotorControl_5_1/MotorControl_Drivers/firmware/drivers_config/
+BLDC_with_Encoder_Design/softconsole2021p1/MotorControl_5_1/MotorControl_Drivers/firmware/filelist/
+
+# OS files
+Thumbs.db
+*.DS_Store
